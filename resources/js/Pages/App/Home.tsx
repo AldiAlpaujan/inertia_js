@@ -5,20 +5,14 @@ const Home = () => {
     <Box>
       <Flex direction={'column'} gap={'md'}>
         <Flex direction={'column'} gap={'sm'}>
-          <Title order={1} c={'var(--mantine-color-grey-7)'}>
+          <Title order={1} c={'var(--mantine-text-primary)'}>
             Heading 1
           </Title>
-          <Title order={2} c={'var(--mantine-color-grey-6)'}>
+          <Title order={2} c={'var(--mantine-text-secondary)'}>
             Heading 2
           </Title>
-          <Title order={3} c={'var(--mantine-color-grey-5)'}>
+          <Title order={3} c={'var(--mantine-text-disabled)'}>
             Heading 3
-          </Title>
-          <Title order={4} c={'var(--mantine-color-grey-9)'}>
-            Heading 4
-          </Title>
-          <Title order={5} c={'var(--mantine-color-grey-9)'}>
-            Heading 5
           </Title>
         </Flex>
         <Flex gap={'md'}>

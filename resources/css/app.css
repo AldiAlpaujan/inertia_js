@@ -1,1 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+:root {
+    --mantine-text-primary: var(--mantine-color-grey-7);
+    --mantine-text-secondary: var(--mantine-color-grey-6);
+    --mantine-text-disabled: var(--mantine-color-grey-5);
+}
