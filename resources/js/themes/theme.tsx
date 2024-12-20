@@ -102,9 +102,9 @@ const theme = createTheme({
       '#C4CDD5', // 4
       '#919EAB', // 5 text disabled
       '#637381', // 6 text secondary
-      '#454F5B', // 7
+      '#454F5B', // 7 text primary
       '#1C252E', // 8
-      '#141A21', // 9 text primary
+      '#141A21', // 9 
     ],
   },
 });
