@@ -1,11 +1,11 @@
 import { Box } from "@mantine/core";
 
-const Home = () => {
+const Login = () => {
   return (
     <Box>
-      Home Page
+      Login Page
     </Box>
-  )
+  );
 }
 
-export default Home;
+export default Login;
